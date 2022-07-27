@@ -9,7 +9,7 @@ holding the data logged by this program.
 The only way to terminate this keylogger is to hit Ctrl-Alt-Del to bring up task manager,  
 and terminate the executing process of FDK manually.
 <img src="https://raw.githubusercontent.com/Falsedeer/FDK-Keylogger/main/pic/run%20in%20background.png">
-The recorded data saved in the log file, is presented in the format as [key](timestamp)
+The recorded data saved in the log file, is presented in the format as [key] (system timestamp)
 <img src="https://raw.githubusercontent.com/Falsedeer/FDK-Keylogger/main/pic/result.png">
 
 # Compile:
