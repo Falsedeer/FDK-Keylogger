@@ -17,4 +17,4 @@ The recorded data saved in the log file, is presented in the format as [key] (sy
 ./link.exe /subsystem:console logger.obj  
 
 # Credits:
-- [Fa;sedeer024](https://home.gamer.com.tw/homeindex.php?owner=maxchen024)
+- [Falsedeer024 虛鹿](https://home.gamer.com.tw/homeindex.php?owner=maxchen024)
